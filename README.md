@@ -58,7 +58,7 @@ Brainhack 2018 Boston	Deep Learning [Ken Chang & Andrew Beers](https://www.youtu
 [Ven et al., 2018, Deep Learning Methods to Process fMRI Data and Their Application in the Diagnosis of Cognitive Impairment: A Brief Overview and Our Opinion](https://www.frontiersin.org/articles/10.3389/fninf.2018.00023/full)
 
 
-[Pereira et al., 2009](Machine learning classifiers and fMRI: a tutorial overview)
+[Pereira et al., 2009, Machine learning classifiers and fMRI: a tutorial overview](https://www.ncbi.nlm.nih.gov/pubmed/19070668)
 
 [Riaz et al., Depp fMRI: An End-to-end Deep Network for Classification of fMRI Data](http://gregslabaugh.net/publications/Riaz_ISBI2018.pdf)
 
