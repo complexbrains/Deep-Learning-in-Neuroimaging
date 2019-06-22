@@ -15,8 +15,9 @@ Brainhack 2018 Boston	Deep Learning [Ken Chang & Andrew Beers](https://www.youtu
 
 [Machine learning for neuroimaing](https://neurohackademy.org/course/machine-learning-for-neuroimaging/)
 
-[deep learning with keara](https://neurohackademy.org/course/deep-learning-with-keras/)
-[Convolutional neural networks]((https://neurohackademy.github.io/convolutional-neural-networks/)
+[Deep learning with keara](https://neurohackademy.org/course/deep-learning-with-keras/)
+
+[Convolutional neural networks](https://neurohackademy.github.io/convolutional-neural-networks/)
 
 [Yoshua Bengio - Deep learning and Backprop in the Brain (CCN 2017)](https://www.youtube.com/watch?v=W86H4DpFnLY&t=18s)
 
