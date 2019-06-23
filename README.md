@@ -15,7 +15,7 @@
 
 [Janaina Mourao Miranda:](http://www.cs.ucl.ac.uk/news/article/janaina_mourao_miranda_delivers_inaugural_lecture_on_machine_learning/)  Mental Health through the lens of Machine Learning applied to Neuroimaging
 
-[Chris Holdgraf:)(https://neurohackademy.org/course/machine-learning-for-neuroimaging/) Machine learning for neuroimaging]
+[Chris Holdgraf:](https://neurohackademy.org/course/machine-learning-for-neuroimaging/) Machine learning for neuroimaging]
 
 [Machine learning for neuroimaing](https://neurohackademy.org/course/machine-learning-for-neuroimaging/)
 
