@@ -7,7 +7,7 @@
 
 * [Tutorial](#tutorials)
 
-* [Articles] (#articles)
+* [Articles](#articles)
 
   ### Conference Talks
 
