@@ -54,7 +54,7 @@
 
 [Veira et al., 2019](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sby189/5365736) Using Machine Learning and Structural Neuroimaging to Detect First Episode Psychosis: Reconsidering the Evidence
 
-[Abaham et al., 2014](https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full)Machine learning for neuroimaging with scikit-learn
+[Abaham et al., 2014](https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full) Machine learning for neuroimaging with scikit-learn
 
 [Ven et al., 2018](https://www.frontiersin.org/articles/10.3389/fninf.2018.00023/full) Deep Learning Methods to Process fMRI Data and Their Application in the Diagnosis of Cognitive Impairment: A Brief Overview and Our Opinion
 
@@ -67,7 +67,7 @@ Modeling of Clinical Neuroimaging Data
 
 [Varoquaux et al., 2014](https://gigascience.biomedcentral.com/articles/10.1186/2047-217X-3-28) How machine learning is shaping cognitive neuroimaging
 
-[Bzdok et al., 2018](https://www.biologicalpsychiatrycnni.org/article/S2451-9022(17)30206-9/fulltext)Machine Learning for Precision Psychiatry: Opportunities and Challenges
+[Bzdok et al., 2018](https://www.biologicalpsychiatrycnni.org/article/S2451-9022(17)30206-9/fulltext) Machine Learning for Precision Psychiatry: Opportunities and Challenges
 
 [Lee et al., 2017](https://www.kjronline.org/DOIx.php?id=10.3348/kjr.2017.18.4.570) Deep Learning in Medical Imaging: General Overview
 
