@@ -48,6 +48,8 @@
 
 [OHBM 2019 Tutorial Session](https://brainhack101.github.io/IntroDL/)
 
+[Mini Course in Deep Learning with PyTorch for AIMS](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
+
 
    ### Articles
 [Veira et al., 2017](https://www.sciencedirect.com/science/article/pii/S0149763416305176) Using deep learning to investigate the neuroimaging correlates of psychiatric and neurological disorders: Methods and applications
