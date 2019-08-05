@@ -73,6 +73,7 @@ Modeling of Clinical Neuroimaging Data
 
 [Lee et al., 2017](https://www.kjronline.org/DOIx.php?id=10.3348/kjr.2017.18.4.570) Deep Learning in Medical Imaging: General Overview
 
+[Coutanche & Hallion, 2019, Machine Learning for Clinical Psychology and Clinical Neuroscience](https://psyarxiv.com/7zswh/)
 
 
 
