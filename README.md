@@ -50,6 +50,8 @@
 
 [Mini Course in Deep Learning with PyTorch for AIMS](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
 
+[Deep Learning Book by MIT](http://www.deeplearningbook.org/) and [more from here](https://github.com/janishar/mit-deep-learning-book-pdf)
+
 
    ### Articles
 [Veira et al., 2017](https://www.sciencedirect.com/science/article/pii/S0149763416305176) Using deep learning to investigate the neuroimaging correlates of psychiatric and neurological disorders: Methods and applications
