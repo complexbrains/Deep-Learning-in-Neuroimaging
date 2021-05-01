@@ -43,7 +43,7 @@
 
 [Machine learning on fMRI data. For science - Nick Allgaier](https://www.youtube.com/watch?v=p2Vt5fdggwk&list=PLQCyovposs5pQyCrSREYtu1e8uaUVIZOa&index=5)
 
-   ### Tutorials
+   ### Tutorials / Courses
 [Welcome to the Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 
 [OHBM 2019 Tutorial Session](https://brainhack101.github.io/IntroDL/)
@@ -51,6 +51,21 @@
 [Mini Course in Deep Learning with PyTorch for AIMS](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
 
 [Deep Learning Book by MIT](http://www.deeplearningbook.org/) and [more from here](https://github.com/janishar/mit-deep-learning-book-pdf)
+
+[Graph Convolutional Networks: odels and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/)
+
+[Machine Learning with Graphs: Standford CS224W Course](http://web.stanford.edu/class/cs224w/index.html#schedule)
+
+[Representation Learning on Netwoks: Standford Course Tutorial](http://snap.stanford.edu/proj/embeddings-www/)
+
+[Deep Learning for Human Brain Mapping](https://brainhack101.github.io/IntroDL/)
+
+[Deep Learning Book](https://www.deeplearningbook.org/)
+
+[Neural networks class - Université de Sherbrooke](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
+[Graph Based Deep Learning Literature](https://github.com/naganandy/graph-based-deep-learning-literature)
+
 
 
    ### Articles
@@ -76,6 +91,13 @@ Modeling of Clinical Neuroimaging Data
 [Lee et al., 2017](https://www.kjronline.org/DOIx.php?id=10.3348/kjr.2017.18.4.570) Deep Learning in Medical Imaging: General Overview
 
 [Coutanche & Hallion, 2019, Machine Learning for Clinical Psychology and Clinical Neuroscience](https://psyarxiv.com/7zswh/)
+
+[Bacciu et al., 2019](https://arxiv.org/abs/1912.12693) A Gentle Introduction to Deep Learning for Graphs
+
+[Can Graph Neural Networks to Resolve Real World Problems](https://hackernoon.com/can-graph-neural-networks-solve-real-world-problems-7hd636dn)
+
+[DNN vs Human Reviews: A list of Reviews and Papers](https://docs.google.com/document/d/1qil2ylAnw6XrHPymYjKKYNDJn2qZQYA_Qg2_ijl-MaQ/edit#)
+
 
 
 
