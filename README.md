@@ -1,4 +1,4 @@
-# Deep-Leaning-in-Neuroimaging
+# Deep-Learning-in-Neuroimaging
 
 **Table of content**
 
