@@ -2,16 +2,16 @@
 
 **Table of content**
 
-* [Conference Talks](#conference-talks)
+* [Conference Talks/General Talks](#conference-talks)
 
 
-* [Tutorial](#tutorials)
+* [Tutorial/Lectures](#tutorials)
 
 * [Articles](#articles)
 
   ### Conference Talks
 
-[Ken Chang & Andrew Beers:](https://www.youtube.com/watch?v=8d1Fx0yFnEU) Brainhack 2018 Boston	Deep Learning 
+[Ken Chang & Andrew Beers:](https://www.youtube.com/watch?v=8d1Fx0yFnEU) Brainhack 2018 Boston	Deep Learning
 
 [Janaina Mourao Miranda:](http://www.cs.ucl.ac.uk/news/article/janaina_mourao_miranda_delivers_inaugural_lecture_on_machine_learning/)  Mental Health through the lens of Machine Learning applied to Neuroimaging
 
@@ -19,7 +19,7 @@
 
 [Machine learning for neuroimaing](https://neurohackademy.org/course/machine-learning-for-neuroimaging/)
 
-[Deep learning with keara](https://neurohackademy.org/course/deep-learning-with-keras/)
+[Deep learning with Keras](https://neurohackademy.org/course/deep-learning-with-keras/)
 
 [Convolutional neural networks](https://neurohackademy.github.io/convolutional-neural-networks/)
 
@@ -43,6 +43,7 @@
 
 [Machine learning on fMRI data. For science - Nick Allgaier](https://www.youtube.com/watch?v=p2Vt5fdggwk&list=PLQCyovposs5pQyCrSREYtu1e8uaUVIZOa&index=5)
 
+[Overview of Modern Machine Learning and Deep Neural Networks Impact on Imaging](https://talks.stanford.edu/greg-corrado-overview-of-modern-machine-learning-and-deep-neural-networks-impact-on-imaging/)
    ### Tutorials / Courses
 [Welcome to the Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 
@@ -52,7 +53,7 @@
 
 [Deep Learning Book by MIT](http://www.deeplearningbook.org/) and [more from here](https://github.com/janishar/mit-deep-learning-book-pdf)
 
-[Graph Convolutional Networks: odels and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/)
+[Graph Convolutional Networks: Models and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/)
 
 [Machine Learning with Graphs: Standford CS224W Course](http://web.stanford.edu/class/cs224w/index.html#schedule)
 
@@ -66,6 +67,7 @@
 
 [Graph Based Deep Learning Literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 
+[Jakub Kaczmarzyk, Applications of deep learning in neuroimaging Nobrainer](https://www.youtube.com/watch?v=8bfDnTFE0m0)
 
 
    ### Articles
@@ -98,6 +100,4 @@ Modeling of Clinical Neuroimaging Data
 
 [DNN vs Human Reviews: A list of Reviews and Papers](https://docs.google.com/document/d/1qil2ylAnw6XrHPymYjKKYNDJn2qZQYA_Qg2_ijl-MaQ/edit#)
 
-
-
-
+[Abrol et al., 2021](https://www.nature.com/articles/s41467-020-20655-6)
