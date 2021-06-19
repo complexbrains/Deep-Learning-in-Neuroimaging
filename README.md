@@ -69,6 +69,12 @@
 
 [Jakub Kaczmarzyk, Applications of deep learning in neuroimaging Nobrainer](https://www.youtube.com/watch?v=8bfDnTFE0m0)
 
+[Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+
+[Machine Learning Course Notes](https://github.com/milliams/intro_deep_learning)
+
+[Introduction to Deep Learning](https://milliams.com/courses/)
+
 
    ### Articles
 [Veira et al., 2017](https://www.sciencedirect.com/science/article/pii/S0149763416305176) Using deep learning to investigate the neuroimaging correlates of psychiatric and neurological disorders: Methods and applications
