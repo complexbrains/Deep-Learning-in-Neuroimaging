@@ -11,7 +11,7 @@
 
   ### Conference Talks
 
-[Ken Chang & Andrew Beers:](https://www.youtube.com/watch?v=8d1Fx0yFnEU) Brainhack 2018 Boston	Deep Learning
+[Ken Chang & Andrew Beers:](https://www.youtube.com/watch?v=8d1Fx0yFnEU) Brainhack 2018 Boston Deep Learning
 
 [Janaina Mourao Miranda:](http://www.cs.ucl.ac.uk/news/article/janaina_mourao_miranda_delivers_inaugural_lecture_on_machine_learning/)  Mental Health through the lens of Machine Learning applied to Neuroimaging
 
@@ -75,9 +75,20 @@
 
 [Introduction to Deep Learning](https://milliams.com/courses/)
 
+[Crush tutorial on GCNs](https://www.kdnuggets.com/2019/08/neighbours-machine-learning-graphs.html)
+
+
+### Machine Tips and Resources
+
+[understanding the Mathematics behind Suppor Vector Machines](https://shuzhanfan.github.io/2018/05/understanding-mathematics-behind-support-vector-machines/)
+
+[Machine Learning Explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained?utm_source=mitsloantwitter&utm_medium=social&utm_campaign=machinelearnexp)
+
 
    ### Articles
 [Veira et al., 2017](https://www.sciencedirect.com/science/article/pii/S0149763416305176) Using deep learning to investigate the neuroimaging correlates of psychiatric and neurological disorders: Methods and applications
+
+[Ahmed-Aristizabal et al. 2021](https://deepai.org/publication/graph-based-deep-learning-for-medical-diagnosis-and-analysis-past-present-and-future) Graph-Based Deep Learning for Medical Diagnosis and Analysis: Past, Present and Future
 
 [Veira et al., 2019](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sby189/5365736) Using Machine Learning and Structural Neuroimaging to Detect First Episode Psychosis: Reconsidering the Evidence
 
